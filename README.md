@@ -16,7 +16,7 @@ The chord buttons are read similar to the original design, using two 595s
 
 Currently i'm using ttymidi to just use a uart cable to power + interface it.
 
-  * http://thiagot.com/personal.html
+  * http://www.varal.org/ttymidi/
 
   * https://github.com/hotchk155/Voici-Le-Strum/
   * http://six4pix.com/lestrum/
