@@ -21,4 +21,4 @@ Currently i'm using ttymidi to just use a uart cable to power + interface it.
   * https://github.com/hotchk155/Voici-Le-Strum/
   * http://six4pix.com/lestrum/
 
-This follows the original licensing as original CC-BY-NC-SA 
+This follows the same licensing as original, CC-BY-NC-SA 
